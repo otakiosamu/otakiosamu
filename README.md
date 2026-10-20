@@ -1,7 +1,5 @@
 # Osamu Otaki | Aspiring Backend Engineer
 
-こんにちは。大滝です。行政で約14年間、公共事業の発注・管理、予算管理、関係者調整を経験した後、フィリピン・セブで英語とWeb開発を学びました。現在は、**実装・テスト・改善に携わるバックエンドエンジニア職**を目指しています。
-
 Hi! I'm Osamu, an aspiring backend developer based in Japan. After 14 years in public-sector infrastructure project management, I studied English and web development in Cebu, Philippines. I'm looking for opportunities to build real-world software as a backend engineer.
 
 ## Tech Stack
