@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Osamu Otaki 👋
 
-<!--
-**otakiosamu/otakiosamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring backend engineer from Japan.
 
-Here are some ideas to get you started:
+After 14 years of working in public infrastructure project management, I studied web development in Cebu, Philippines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- PHP / Laravel
+- MySQL
+- HTML / CSS / JavaScript
+- Git / GitHub
+
+## Featured Project: KKEnglish
+An English school reservation system developed by a team of three.
+
+**My role:** Student and teacher backend development.
+
+**Key features:**
+- Lesson reservations and double-booking prevention
+- Point consumption and refunds
+- Teacher schedule management
+- Lesson records and reviews
+
+**Tech:** PHP, Laravel, MySQL, Bootstrap
+
+[View the team project on GitHub](https://github.com/kredo-school/25th_Batch_KKEnglish_Offline)
+
+## Career Goal
+I'm seeking a backend developer role where I can gain hands-on professional software development experience.
